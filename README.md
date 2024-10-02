@@ -2,11 +2,16 @@
 
 This SQL script is a comprehensive analysis of sales data from a coffee shop, covering various metrics such as total sales, orders, and quantities sold by different time periods, locations, and product categories. Here's a breakdown of the different sections:
 
-Date and Time Data Formatting:
-The script first converts transaction_date and transaction_time to the correct formats (DATE and TIME respectively) for accurate querying.
-Sales and Orders Analysis:
-The script calculates total sales, orders, and quantities sold for specific months (April and May).
-MoM (Month-over-Month) Growth for both total sales and orders is computed to track performance.
+**Date and Time Date Formatting:**
+
+The script first coverts transaction_date and transaction_time to the correct formats (DATE and TIME respectively) for accurate querying.
+
+**Sales And Orders Analysis:**
+
+The script calculates total sales, orders, and quantities sold for specific months.
+MoM (Month-over-Month) Growth for both total sales and orders is computed to track perfomance.
+
+
 KPI Analysis (Sales, Orders, Quantity):
 Key performance indicators such as MoM growth percentages are calculated for sales, orders, and quantities sold.
 Sales Breakdown by Date, Time, and Weekdays/Weekends:
